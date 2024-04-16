@@ -1,5 +1,5 @@
 <h1 align="center">
- 💡 Desenvolvendo sua Primeira API com FastAPI, Python e Docker
+ 💡 Desenvolvendo API com FastAPI, Python e Docker
  
 </h1>
   
